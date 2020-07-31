@@ -22,3 +22,13 @@ Packaging
 Due to the use of symlinks (probably), osu! cannot export this as an osk file.
 Manually create this archive by compressing it into a zip archive and renaming
 the extension to osk.
+
+Colours
+-------
+
+Red:    ff5252
+Green:  8bff52
+Blue:   52abff
+Yellow: fff952
+Purple: f352ff
+Gray:   a8a8a8
