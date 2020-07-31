@@ -1,0 +1,24 @@
+kome
+====
+
+A simple osu! skin for personal use.
+
+Cloning
+-------
+
+To clone on Windows, make sure to run
+
+	git clone -c core.symlinks=true https://github.com/chuahou/kome.git
+
+instead of
+
+	git clone https://github.com/chuahou/kome.git
+
+in order to maintain symlinks.
+
+Packaging
+---------
+
+Due to the use of symlinks (probably), osu! cannot export this as an osk file.
+Manually create this archive by compressing it into a zip archive and renaming
+the extension to osk.
